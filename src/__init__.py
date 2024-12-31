@@ -5,5 +5,5 @@ from aiogram.fsm.storage.memory import MemoryStorage
 
 from src.config_reader import config
 
-bot = Bot(config.BOT_TOKEN.get_secret_value(), parse_mode=ParseMode.HTML)
+bot = Bot(config.BOT_TOKEN.get_secret_value())
 dp = Dispatcher()
