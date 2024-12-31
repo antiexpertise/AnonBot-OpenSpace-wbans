@@ -6,7 +6,7 @@ from aiogram.dispatcher.flags import get_flag
 from aiogram.types import TelegramObject, User
 from cachetools import TTLCache
 
-DEFAULT_TTL = 600  # in seconds
+DEFAULT_TTL = 300  # in seconds
 DEFAULT_KEY = "default"
 allowed_texts = ['/start']
 loop = asyncio.get_event_loop()
