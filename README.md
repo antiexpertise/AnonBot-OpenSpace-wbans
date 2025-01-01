@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Anonymous Forwarder for Telegram Groups 📱</h1>
+<h1 align="center">🤖 Anonymous Forwarder To Telegram Groups 📱</h1>
 
 <p align="center">
   <a href="https://t.me/fsoky_community">
