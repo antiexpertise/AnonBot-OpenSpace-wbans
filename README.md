@@ -15,7 +15,7 @@ git clone https://github.com/Fsoky/anonimchatbot-aiogram3.git
 ```
 #### Change directory
 ```bash
-cd anonimchatbot-aiogram3
+cd AnonBot-OpenSpace
 ```
 
 #### Run
