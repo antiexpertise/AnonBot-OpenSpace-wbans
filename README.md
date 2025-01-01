@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Anonymous ChatBot for Telegram 📱</h1>
+<h1 align="center">🤖 Anonymous Forwarder for Telegram Groups 📱</h1>
 
 <p align="center">
   <a href="https://t.me/fsoky_community">
@@ -11,7 +11,7 @@
 
 #### Installation
 ```bash
-git clone https://github.com/Fsoky/anonimchatbot-aiogram3.git
+git clone https://github.com/ulanpy/AnonBot-OpenSpace.git
 ```
 #### Change directory
 ```bash
