@@ -1,10 +1,6 @@
 <h1 align="center">🤖 Anonymous Forwarder To Telegram Groups 📱</h1>
 
-<p align="center">
-  <a href="https://t.me/fsoky_community">
-    <img src="https://img.shields.io/badge/We're in telegram-blue?style=for-the-badge&logo=Telegram" alt="Telegram">
-  </a>
-</p>
+
 
 * Python 3.10^
 * AIOgram 3.x
