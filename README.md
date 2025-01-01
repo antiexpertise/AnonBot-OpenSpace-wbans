@@ -8,7 +8,6 @@
 
 * Python 3.10^
 * AIOgram 3.x
-* MongoDB (motor)
 
 #### Installation
 ```bash
@@ -18,13 +17,10 @@ git clone https://github.com/Fsoky/anonimchatbot-aiogram3.git
 ```bash
 cd anonimchatbot-aiogram3
 ```
-#### Use [poetry](https://python-poetry.org/docs/) for install dependencies (`pip install poetry`)
-```bash
-poetry install
-```
+
 #### Run
 ```bash
-python src/__main__.py
+docker-compose up
 ```
 
 > [!TIP]
