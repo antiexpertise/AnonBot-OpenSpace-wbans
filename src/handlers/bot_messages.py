@@ -9,7 +9,7 @@ router = Router()
 
 db_path = '/app/db/bans.db'
 
-open_space_chat ="-1002470623316"
+open_space_chat ="CHANGE_CHAT_ID_HERE"
 @router.message(
     F.content_type.in_(
         [
