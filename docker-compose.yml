@@ -6,6 +6,10 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+    volumes:
+      - ./db:/app/db 
+    environment:
+      - DB_PATH=/app/db/bans.db
     restart: always
 
 
